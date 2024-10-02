@@ -1,0 +1,64 @@
+{
+  "hash": "72b52aaa",
+  "configHash": "37111c99",
+  "lockfileHash": "a54598a1",
+  "browserHash": "01321123",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "c018b894",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "d5217a1d",
+      "needsInterop": true
+    },
+    "@mui/material/Divider": {
+      "src": "../../node_modules/@mui/material/Divider/index.js",
+      "file": "@mui_material_Divider.js",
+      "fileHash": "ce78bcac",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "f0f56ec8",
+      "needsInterop": false
+    },
+    "@mui/material/Box": {
+      "src": "../../node_modules/@mui/material/Box/index.js",
+      "file": "@mui_material_Box.js",
+      "fileHash": "20960d62",
+      "needsInterop": false
+    },
+    "@mui/material/Paper": {
+      "src": "../../node_modules/@mui/material/Paper/index.js",
+      "file": "@mui_material_Paper.js",
+      "fileHash": "b331505d",
+      "needsInterop": false
+    },
+    "@mui/material/Grid2": {
+      "src": "../../node_modules/@mui/material/Grid2/index.js",
+      "file": "@mui_material_Grid2.js",
+      "fileHash": "17717467",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-UDP5LK2Z": {
+      "file": "chunk-UDP5LK2Z.js"
+    },
+    "chunk-KYGWKTGB": {
+      "file": "chunk-KYGWKTGB.js"
+    },
+    "chunk-C2G3G5D3": {
+      "file": "chunk-C2G3G5D3.js"
+    },
+    "chunk-UTEJFLXC": {
+      "file": "chunk-UTEJFLXC.js"
+    }
+  }
+}
