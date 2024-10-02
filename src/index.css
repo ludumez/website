@@ -15,9 +15,9 @@
 
 a {
   font-weight: bold;
+  text-decoration-line: underline;
   color: #000000;
   text-decoration: inherit;
-   text-decoration-line: underline;
   
 }
 a:hover {
@@ -34,11 +34,6 @@ body {
 
 h1 {
   font-size: 3.2em;
-  line-height: 1.1;
-}
-
-h2 {
-  font-size: 2em;
   line-height: 1.1;
 }
 
@@ -67,25 +62,20 @@ button:focus-visible {
     background-color: #ffffff;
   }
   a:hover {
-    color: #747bff;
+    color: #505050;
   }
   button {
     background-color: #f9f9f9;
   }
-}
-.flexbox-container {
-    display: flex;
-    flex-direction: row;
-    align-content: space-around;
-}
+  img{
+     width: 100%;
 
-img{
-width:100%;
+  }
+  p{
+  text-align:left;
+  }
+  h3{
+  text-align:left;
+  }
+
 }
-
-.Icon{
-    width: 20px;
-    height: 100%;
-}
-
-
