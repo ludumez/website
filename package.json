@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ludumez.github.io/",
+  "homepage": "https://ludumez.github.io/website",
   "scripts": {
     "start" : "react-script start",
     "predeploy": "npm run build",
